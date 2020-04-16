@@ -2,6 +2,14 @@
 *Simple applications* (in different languages) to create small sites that do not require neither database nor high-performance hosting, but rather have files that a simple user can easily edit.  
   
 Useful for: DIYers, those who are learning or site-creators, web-masters, web-designers. For their low-budget customers (when solutions such as Wordpress are excessive or hosting is not enough performing).  
+
+## UML Diagrams  
+
+### Use Case
+![Diagram](https://github.com/Magicianred/simple-app/Project/Diagrams/UseCaseDiagram.svg)  
+[drawio](https://github.com/Magicianred/simple-app/Project/Diagrams/UseCaseDiagram.drawio)  
+[svg](https://github.com/Magicianred/simple-app/Project/Diagrams/UseCaseDiagram.svg)  
+
   
 ## React  
 [react-simple-app](https://github.com/Magicianred/react-simple-app)
