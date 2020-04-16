@@ -6,9 +6,9 @@ Useful for: DIYers, those who are learning or site-creators, web-masters, web-de
 ## UML Diagrams  
 
 ### Use Case
-![Diagram](https://github.com/Magicianred/simple-app/Project/Diagrams/UseCaseDiagram.svg)  
-[drawio](https://github.com/Magicianred/simple-app/Project/Diagrams/UseCaseDiagram.drawio)  
-[svg](https://github.com/Magicianred/simple-app/Project/Diagrams/UseCaseDiagram.svg)  
+![Diagram](https://github.com/Magicianred/simple-app/blob/master/Project/Diagrams/UseCaseDiagram.svg)  
+[drawio](https://github.com/Magicianred/simple-app/blob/master/Project/Diagrams/UseCaseDiagram.drawio)  
+[svg](https://github.com/Magicianred/simple-app/blob/master/Project/Diagrams/UseCaseDiagram.svg)  
 
   
 ## React  
