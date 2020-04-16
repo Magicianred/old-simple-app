@@ -23,6 +23,7 @@ BladeOne templating system
 ### React  
 - [react-base-info-site](https://github.com/Magicianred/react-base-info-site)  
 - [react-carousel-info-site](https://github.com/Magicianred/react-carousel-info-site)
+- [react-base-multilang-site](https://github.com/Magicianred/react-base-multilang-site)
 
 ### PHP  
 - [php-base-info-site](https://github.com/Magicianred/php-base-info-site)
