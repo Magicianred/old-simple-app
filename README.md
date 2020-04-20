@@ -3,14 +3,16 @@
   
 Useful for: DIYers, those who are learning or site-creators, web-masters, web-designers. For their low-budget customers (when solutions such as Wordpress are excessive or hosting is not enough performing).  
 
+Soon an useful CLI for create app and add page(s) and section(s).
+
 ## UML Diagrams  
 
 ### Use Case
 
 #### Create simple-app
-![Diagram](hhttps://github.com/Magicianred/simple-app/blob/develop/Project/Diagrams/simple-app-create-UseCaseDiagram.svg)  
+![Diagram](https://github.com/Magicianred/simple-app/blob/develop/Project/Diagrams/simple-app-create-UseCaseDiagram.svg)  
 [drawio](https://github.com/Magicianred/simple-app/blob/develop/Project/Diagrams/simple-app-create-UseCaseDiagram.drawio)  
-[svg](hhttps://github.com/Magicianred/simple-app/blob/develop/Project/Diagrams/simple-app-create-UseCaseDiagram.svg)  
+[svg](https://github.com/Magicianred/simple-app/blob/develop/Project/Diagrams/simple-app-create-UseCaseDiagram.svg)  
 
 #### Edit content (and simple-app)
 ![Diagram](https://github.com/Magicianred/simple-app/blob/develop/Project/Diagrams/simple-app-edit-UseCaseDiagram.svg)  
