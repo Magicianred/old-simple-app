@@ -6,9 +6,21 @@ Useful for: DIYers, those who are learning or site-creators, web-masters, web-de
 ## UML Diagrams  
 
 ### Use Case
-![Diagram](https://github.com/Magicianred/simple-app/blob/master/Project/Diagrams/UseCaseDiagram.svg)  
-[drawio](https://github.com/Magicianred/simple-app/blob/master/Project/Diagrams/UseCaseDiagram.drawio)  
-[svg](https://github.com/Magicianred/simple-app/blob/master/Project/Diagrams/UseCaseDiagram.svg)  
+
+#### Create simple-app
+![Diagram](https://github.com/Magicianred/simple-app/blob/develop/Project/Diagrams/create-UseCaseDiagram.svg)  
+[drawio](https://github.com/Magicianred/simple-app/blob/develop/Project/Diagrams/create-UseCaseDiagram.drawio)  
+[svg](https://github.com/Magicianred/simple-app/blob/develop/Project/Diagrams/create-UseCaseDiagram.svg)  
+
+#### Edit content (and simple-app)
+![Diagram](https://github.com/Magicianred/simple-app/blob/develop/Project/Diagrams/edit-UseCaseDiagram.svg)  
+[drawio](https://github.com/Magicianred/simple-app/blob/develop/Project/Diagrams/edit-UseCaseDiagram.drawio)  
+[svg](https://github.com/Magicianred/simple-app/blob/develop/Project/Diagrams/edit-UseCaseDiagram.svg)  
+
+#### Use simple-app
+![Diagram](https://github.com/Magicianred/simple-app/blob/develop/Project/Diagrams/use-UseCaseDiagram.svg)  
+[drawio](https://github.com/Magicianred/simple-app/blob/develop/Project/Diagrams/use-UseCaseDiagram.drawio)  
+[svg](https://github.com/Magicianred/simple-app/blob/develop/Project/Diagrams/use-UseCaseDiagram.svg)  
 
   
 ## React  
