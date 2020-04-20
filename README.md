@@ -8,19 +8,19 @@ Useful for: DIYers, those who are learning or site-creators, web-masters, web-de
 ### Use Case
 
 #### Create simple-app
-![Diagram](https://github.com/Magicianred/simple-app/blob/develop/Project/Diagrams/create-UseCaseDiagram.svg)  
-[drawio](https://github.com/Magicianred/simple-app/blob/develop/Project/Diagrams/create-UseCaseDiagram.drawio)  
-[svg](https://github.com/Magicianred/simple-app/blob/develop/Project/Diagrams/create-UseCaseDiagram.svg)  
+![Diagram](hhttps://github.com/Magicianred/simple-app/blob/develop/Project/Diagrams/simple-app-create-UseCaseDiagram.svg)  
+[drawio](https://github.com/Magicianred/simple-app/blob/develop/Project/Diagrams/simple-app-create-UseCaseDiagram.drawio)  
+[svg](hhttps://github.com/Magicianred/simple-app/blob/develop/Project/Diagrams/simple-app-create-UseCaseDiagram.svg)  
 
 #### Edit content (and simple-app)
-![Diagram](https://github.com/Magicianred/simple-app/blob/develop/Project/Diagrams/edit-UseCaseDiagram.svg)  
-[drawio](https://github.com/Magicianred/simple-app/blob/develop/Project/Diagrams/edit-UseCaseDiagram.drawio)  
-[svg](https://github.com/Magicianred/simple-app/blob/develop/Project/Diagrams/edit-UseCaseDiagram.svg)  
+![Diagram](https://github.com/Magicianred/simple-app/blob/develop/Project/Diagrams/simple-app-edit-UseCaseDiagram.svg)  
+[drawio](https://github.com/Magicianred/simple-app/blob/develop/Project/Diagrams/simple-app-edit-UseCaseDiagram.drawio)  
+[svg](https://github.com/Magicianred/simple-app/blob/develop/Project/Diagrams/simple-app-edit-UseCaseDiagram.svg)  
 
 #### Use simple-app
-![Diagram](https://github.com/Magicianred/simple-app/blob/develop/Project/Diagrams/use-UseCaseDiagram.svg)  
-[drawio](https://github.com/Magicianred/simple-app/blob/develop/Project/Diagrams/use-UseCaseDiagram.drawio)  
-[svg](https://github.com/Magicianred/simple-app/blob/develop/Project/Diagrams/use-UseCaseDiagram.svg)  
+![Diagram](https://github.com/Magicianred/simple-app/blob/develop/Project/Diagrams/simple-app-use-UseCaseDiagram.svg)  
+[drawio](https://github.com/Magicianred/simple-app/blob/develop/Project/Diagrams/simple-app-use-UseCaseDiagram.drawio)  
+[svg](https://github.com/Magicianred/simple-app/blob/develop/Project/Diagrams/simple-app-use-UseCaseDiagram.svg)  
 
   
 ## React  
