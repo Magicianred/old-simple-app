@@ -4,3 +4,6 @@
 [submodule "php-simple-app"]
 	path = php-simple-app
 	url = https://github.com/Magicianred/php-simple-app
+[submodule "aspnetmvc-simple-app"]
+	path = aspnetmvc-simple-app
+	url = https://github.com/Magicianred/aspnetmvc-simple-app.git
