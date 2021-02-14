@@ -3,20 +3,24 @@
   
 Useful for: DIYers, those who are learning or site-creators, web-masters, web-designers. For their low-budget customers (when solutions such as Wordpress are excessive or hosting is not enough performing).  
 
+## Licences
+
+This project have **AGPL licence**, if you want a **MIT licence** go to this repository [*simple-mit-app*](https://github.com/simple-app-organization/simple-mit-app)
+
 ## UML Diagrams  
 
 ### Use Case
-![Diagram](https://github.com/Magicianred/simple-app/blob/master/Project/Diagrams/UseCaseDiagram.svg)  
-[drawio](https://github.com/Magicianred/simple-app/blob/master/Project/Diagrams/UseCaseDiagram.drawio)  
-[svg](https://github.com/Magicianred/simple-app/blob/master/Project/Diagrams/UseCaseDiagram.svg)  
+![Diagram](https://github.com/simple-app-organization/simple-app/blob/master/Project/Diagrams/UseCaseDiagram.svg)  
+[drawio](https://github.com/simple-app-organization/simple-app/blob/master/Project/Diagrams/UseCaseDiagram.drawio)  
+[svg](https://github.com/simple-app-organization/simple-app/blob/master/Project/Diagrams/UseCaseDiagram.svg)  
 
   
 ## React  
-[react-simple-app](https://github.com/Magicianred/react-simple-app)
+[react-simple-app](https://github.com/simple-app-organization/react-simple-app)
 
 ## PHP  
 BladeOne templating system  
-[php-simple-app](https://github.com/Magicianred/php-simple-app)  
+[php-simple-app](https://github.com/simple-app-organization/php-simple-app)  
 
 ## Examples of use  
 
