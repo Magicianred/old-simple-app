@@ -1,3 +1,7 @@
+This is the old repo of *simple-app*.
+The new one is [here](https://github.com/simple-app-organization/simple-app)
+
+
 # simple-app  
 *Simple applications* (in different programming/markup languages) to create small sites that do not require neither database nor high-performance hosting, but rather have files that a simple user can easily edit.  
   
