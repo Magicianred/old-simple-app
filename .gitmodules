@@ -1,6 +1,0 @@
-[submodule "react-simple-app"]
-	path = react-simple-app
-	url = https://github.com/Magicianred/react-simple-app/
-[submodule "php-simple-app"]
-	path = php-simple-app
-	url = https://github.com/Magicianred/php-simple-app
